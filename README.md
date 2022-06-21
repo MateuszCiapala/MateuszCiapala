@@ -1,7 +1,8 @@
 # Hi! 👋, I'm Mateusz
 
 ### 🤵 I'm 27, living in Poland 🇵🇱, mainly focused on backend with Java language usage.
-###### 🎓 During Java & Web technologies courses from JavaStart, I've learnt basics of languages listed below:
+###### 🎓 During Java & Web technologies courses from JavaStart, I've learnt basics of:
+- Java
 - HTML
 - CSS
 - JS
