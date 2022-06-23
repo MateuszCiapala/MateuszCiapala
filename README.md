@@ -9,6 +9,7 @@
 - SQL
 ###### 🎓 Currently i'm focused on learning:
 - Spring-boot
+- Git
 ###### ⚡ Fun fact: I've started my adventure with java while joined Lineage2 game open source project and found out I like it.
 
 ## 💻 Technologies and tools I use
