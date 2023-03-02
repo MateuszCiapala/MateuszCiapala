@@ -1,16 +1,11 @@
 # Hi! 👋, I'm Mateusz
 
 ### 🤵 I'm 27, living in Poland 🇵🇱, mainly focused on backend with Java language usage.
-###### 🎓 During Java & Web technologies courses from JavaStart, I've learnt basics of:
+###### Tech stack:
 - Java
-- HTML
-- CSS
-- JS
+- SpringBoot
 - SQL
-###### 🎓 Currently i'm focused on learning:
-- Spring-boot
 - Git
-###### ⚡ Fun fact: I've started my adventure with java while joined Lineage2 game open source project and found out I like it.
 
 ## 💻 Technologies and tools I use
 
